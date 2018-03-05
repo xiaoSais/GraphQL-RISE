@@ -35,12 +35,6 @@ fetchArticle()
 const EntryType = new GraphQLObjectType({
     name: 'EntryType',
     fields: {
-        hello: {
-            type: GraphQLString,
-            resolve() {
-                return 'world';
-            },
-        },
         sliderGroup: {
             type: new GraphQLList(SliderType),
             resolve: () => data.slider
