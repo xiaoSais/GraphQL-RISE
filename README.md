@@ -4,7 +4,6 @@
 
 * :smile: 使用Graphql重构了RISE网站的api
 * :satisfied: 可以畅快的在Chrome浏览器下体验RISE api的Graphql查询
-* :relieved: 隐藏了远程数据库的密码，用户名等
 * :cry: 这个Repo只做代码托管
 * :grin: 隐藏了DateBase.js中的远程数据库账号和密码
 
