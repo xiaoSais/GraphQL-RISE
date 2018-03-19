@@ -2,8 +2,8 @@
 
 #### features
 
-* :smile: 使用Graphql重构了RISE网站的api
-* :satisfied: 可以畅快的在Chrome浏览器下体验RISE api的Graphql查询
+* :smile: 使用GraphQL重构了RISE网站的api
+* :satisfied: 可以畅快的在Chrome浏览器下体验RISE api的GraphQL查询
 * :cry: 这个Repo只做代码托管
 * :grin: 隐藏了DateBase.js中的远程数据库账号和密码
 
@@ -81,5 +81,5 @@
     ```
 #### toDoList
 
-* :tiger: 只是实现了Graphql的查询，下一步实现Graphql的数据变更
+* :tiger: 只是实现了GraphQL的查询，下一步实现Graphql的数据变更
 * :star: http协议转换为https
